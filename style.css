@@ -1,5 +1,9 @@
 /* Allgemein */
 
+html {
+  scroll-behavior: smooth;
+}
+
 body  {
   font-family: 'Nunito', sans-serif;
   color: rgba(63, 61, 86, 1);
