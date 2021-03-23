@@ -66,6 +66,7 @@ h3 {
   color: #D0826F !important;
   font-weight: bold;
   font-size: 40px;
+  letter-spacing: 5px;
 }
 
 .nav-link {
@@ -251,6 +252,9 @@ a:hover {
   color: white;
 }
 
+.footer-links a {
+  color: white;
+}
 
 
 /* Buttons */
